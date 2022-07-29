@@ -1,4 +1,5 @@
-<h1 align="center">Hello World!</h1>
+<h1 align="center"> Hello World 🤘</h1>
+<h3 align="center">🌱 I’m currently learning Full-stack Development.</h3>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="css3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="css3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -13,7 +14,7 @@
 &nbsp;
 <div align="center">
   <a href="https://github.com/joaoKuchnir">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoKuchnir&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?      username=joaoKuchnir&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
 <div align="center">
 
@@ -21,7 +22,11 @@
 
 </div>
 
+<div align="center">
 
+![](https://komarev.com/ghpvc/?username=joaoKuchnir&color=blueviolet&style=flat-square)
+
+</div>
 
  
  
