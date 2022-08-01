@@ -23,11 +23,7 @@
 
 </div>
 
-<div align="center">
 
-![](https://komarev.com/ghpvc/?username=joaoKuchnir&color=blueviolet&style=flat-square)
-
-</div>
 
  
  
