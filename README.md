@@ -17,11 +17,6 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoKuchnir&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<div align="center">
-
- ![Snake animation](https://github.com/joaoKuchnir/joaoKuchnir/blob/output/github-contribution-grid-snake.svg)
-
-</div>
 
 
 
